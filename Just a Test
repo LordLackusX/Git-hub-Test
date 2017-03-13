@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace git_hub_test
+{
+    class Program
+    { 
+        static void Main(string[] args)
+        {
+
+
+            Console.WriteLine("this should be on the git hub xDD");
+
+
+
+            //https://github.com/LordLackusX/Git-hub-Test.git
+            Console.ReadKey();
+        }
+    }
+}
